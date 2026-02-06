@@ -11,7 +11,7 @@
 
 ## 🔧🌟 Project Overview
 In semiconductor manufacturing, identifying defects on silicon wafers is critical for maintaining high yield and reducing costs. This repository contains a comprehensive suite of tools and research-driven notebooks designed to **automate the detection and classification of wafer map patterns** using advanced image processing and Deep Learning.
-
+!![SEMICONDUCTOR WAFER](c3b040ba-d7ce-4fd5-b647-c7beaa6beecc.png)
 ---
 
 ## 🚀 Core Research & Workflows
