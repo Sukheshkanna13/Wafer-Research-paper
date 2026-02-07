@@ -60,6 +60,9 @@ Before feeding data into the CNN, we apply denoising and spatial transformations
 3. **Train & Evaluate:** Execute `Semiconductor_Wafer_Defect_Classification.ipynb` for the final model training and reporting.
 
 ```bash
+
+<img width="831" height="609" alt="Screenshot 2026-02-07 at 11 19 16 AM" src="https://github.com/user-attachments/assets/641d6df6-5de6-4d7c-ba34-523184aa55ce" />
+
 # Example setup
 pip install tensorflow opencv-python matplotlib pandas scikit-learn
 
